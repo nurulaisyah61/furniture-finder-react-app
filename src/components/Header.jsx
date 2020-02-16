@@ -47,5 +47,10 @@ const StyledFilter = styled.div`
     grid-column-gap: 30px;
     padding-top: 20px;
     padding-bottom: 20px;
+
+    @media (max-width:425px) {
+        grid-template-columns: 1fr;
+        grid-row-gap: 20px;
+    }
 `;
 

@@ -32,4 +32,7 @@ const StyledProductList = styled.div`
     grid-column-gap: 20px;
     grid-row-gap: 20px;
     padding: 20px;
+    @media (max-width:425px) {
+        grid-template-columns: 1fr;
+    }
 `;
