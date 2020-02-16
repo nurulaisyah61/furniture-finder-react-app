@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/furniture-finder-react-app/static/css/main.b7124770.chunk.css",
-    "main.js": "/furniture-finder-react-app/static/js/main.afa3d697.chunk.js",
-    "main.js.map": "/furniture-finder-react-app/static/js/main.afa3d697.chunk.js.map",
+    "main.js": "/furniture-finder-react-app/static/js/main.cb0f507c.chunk.js",
+    "main.js.map": "/furniture-finder-react-app/static/js/main.cb0f507c.chunk.js.map",
     "runtime-main.js": "/furniture-finder-react-app/static/js/runtime-main.dd633a47.js",
     "runtime-main.js.map": "/furniture-finder-react-app/static/js/runtime-main.dd633a47.js.map",
     "static/js/2.c96c0459.chunk.js": "/furniture-finder-react-app/static/js/2.c96c0459.chunk.js",
     "static/js/2.c96c0459.chunk.js.map": "/furniture-finder-react-app/static/js/2.c96c0459.chunk.js.map",
     "index.html": "/furniture-finder-react-app/index.html",
-    "precache-manifest.9005d7414f6fb2fa664d5aa5ebbe69e9.js": "/furniture-finder-react-app/precache-manifest.9005d7414f6fb2fa664d5aa5ebbe69e9.js",
+    "precache-manifest.7ebd6440c8b4af546c0c20cc09883124.js": "/furniture-finder-react-app/precache-manifest.7ebd6440c8b4af546c0c20cc09883124.js",
     "service-worker.js": "/furniture-finder-react-app/service-worker.js",
     "static/css/main.b7124770.chunk.css.map": "/furniture-finder-react-app/static/css/main.b7124770.chunk.css.map",
     "static/js/2.c96c0459.chunk.js.LICENSE.txt": "/furniture-finder-react-app/static/js/2.c96c0459.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dd633a47.js",
     "static/js/2.c96c0459.chunk.js",
     "static/css/main.b7124770.chunk.css",
-    "static/js/main.afa3d697.chunk.js"
+    "static/js/main.cb0f507c.chunk.js"
   ]
 }
